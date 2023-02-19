@@ -42,8 +42,6 @@ int main()
 
     printIssueInfo(Buy);
 
-    printIssueInfo(Buy);
-
     // std::cout < < < < std::endl;
 
     // for (const std::string &word : msg)
